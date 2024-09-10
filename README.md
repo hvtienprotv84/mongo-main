@@ -7,7 +7,7 @@
 </div>  
 
 <hr/>
-
+ 
 <div align="center">
   
   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind)](https://skillicons.dev)
